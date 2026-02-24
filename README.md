@@ -12,10 +12,7 @@
   
 
 ### Glad to see you here!  
-I'm a Python developer
 
-I specialize in data analytics. A Data Science specialist is needed in almost any industry,
-they work at the intersection of three areas of knowledge: statistics, machine learning and programming.  
   
 
 <br/>  
