@@ -4,7 +4,7 @@
 
 ## Ведущий проект
 
-**[OpenTalk Security Assessment](https://github.com/KQu0ta/opentalk-security-assessment)** — полный аудит защищённости платформы видеоконференцсвязи OpenTalk: анализ архитектуры, идентификация версий компонентов, поиск и верификация 1-day уязвимостей (CVE), построение цепочек эксплуатации, аудит Nginx/Keycloak/API.
+**[OpenTalk Security Assessment](https://github.com/KQu0ta/opentalk-security-assessment)** — полный аудит защищённости платформы видеоконференцсвязи OpenTalk: анализ архитектуры, идентификация версий компонентов, поиск и верификация 1-day уязвимостей (CVE), построение цепочек эксплуатации, аудит Nginx/Keycloak.
 
 ## 🛠 Стек и инструменты
 
