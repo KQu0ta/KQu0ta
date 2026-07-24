@@ -16,6 +16,7 @@
 
 ## CTF / Write-ups
 
+- TrHackMe: [Qu0ta](https://tryhackme.com/p/Qu0ta)
 ## Контакты
 
 - GitHub: [@KQu0ta](https://github.com/KQu0ta)
