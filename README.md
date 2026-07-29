@@ -15,7 +15,7 @@
 **Разработка:** Python  C/C++
 
 ## CTF / Write-ups
-
+- Root-me: [Qu0ta](https://www.root-me.org/Qu0ta)
 - TrHackMe: [Qu0ta](https://tryhackme.com/p/Qu0ta)
 ## Контакты
 
