@@ -8,7 +8,7 @@
 
 ## 🛠 Стек и инструменты
 
-**Security:** Nmap · Nuclei · Whatweb · Burp Suite · IDA/Ghidra · x64dbg
+**Security:** Nmap  · Burp Suite · IDA/Ghidra · x64dbg
 
 **Методологии:** OWASP WSTG, PTES
 
